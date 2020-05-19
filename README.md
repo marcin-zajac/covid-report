@@ -1,4 +1,4 @@
-## Google COVID-19 Community Mobility Reports - Animate maps created in QGIS
+## Google COVID-19 Community Mobility Reports - Animated maps created in QGIS
 
 
 ### About data
