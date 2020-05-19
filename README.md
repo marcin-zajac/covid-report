@@ -18,16 +18,16 @@ We calculate these insights based on data from users who have opted-in to Locati
 
 ## More:
 [data documentation](https://www.google.com/covid19/mobility/data_documentation.html?hl=en)
-<!--
+
 ![grocery.gif](animations/grocery.gif) ![grocery_spectral.gif](animations/grocery_spectral.gif)
 ![parks_perc.gif](animations/parks_perc.gif)![parks_perc_spectral.gif](animations/parks_perc_spectral.gif)
 ![residentia.gif](animations/residentia.gif)![residentia_spectral.gif](animations/residentia_spectral.gif)
 ![retail_and.gif](animations/retail_and.gif)![retail_and_spectral.gif](animations/retail_and_spectral.gif)
 ![transit_st.gif](animations/transit_st.gif)![transit_st_spectral.gif](animations/transit_st_spectral.gif)
 ![workplaces.gif](animations/workplaces.gif)![workplaces_spectral.gif](animations/workplaces_spectral.gif)
--->
 
 
+<!--
 Police legend             |  Spectral legend
 :-------------------------:|:-------------------------:
 ![grocery.gif](animations/grocery.gif)|![grocery_spectral.gif](animations/grocery_spectral.gif)
@@ -36,7 +36,7 @@ Police legend             |  Spectral legend
 ![retail_and.gif](animations/retail_and.gif)|![retail_and_spectral.gif](animations/retail_and_spectral.gif)
 ![transit_st.gif](animations/transit_st.gif)|![transit_st_spectral.gif](animations/transit_st_spectral.gif)
 ![workplaces.gif](animations/workplaces.gif)|![workplaces_spectral.gif](animations/workplaces_spectral.gif)
-
+-->
 
 ### Source
 
