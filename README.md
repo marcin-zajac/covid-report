@@ -16,7 +16,7 @@ We include categories that are useful to social distancing efforts as well as ac
 
 We calculate these insights based on data from users who have opted-in to Location History for their Google Account, so the data represents a sample of our users. As with all samples, this may or may not represent the exact behavior of a wider population.
 
-##More:
+## More:
 <!--
 
 [data documentation](https://www.google.com/covid19/mobility/data_documentation.html?hl=en)
