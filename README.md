@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Google COVID-19 Community Mobility Reports - Animate maps created by QGIS
 
 You can use the [editor on GitHub](https://github.com/marcin-zajac/covid-report/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About data
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These datasets show how visits and length of stay at different places change compared to a baseline. We calculate these changes using the same kind of aggregated and anonymized data used to show popular times for places in Google Maps.
 
-```markdown
-Syntax highlighted code block
+Changes for each day are compared to a baseline value for that day of the week:
 
-# Header 1
-## Header 2
-### Header 3
+- The baseline is the median value, for the corresponding day of the week, during the 5-week period Jan 3–Feb 6, 2020.
 
-- Bulleted
-- List
+- The datasets show trends over several months with the most recent data representing approximately 2-3 days ago—this is how long it takes to produce the datasets.
+What data is included in the calculation depends on user settings, connectivity, and whether it meets our privacy threshold. If the privacy threshold isn’t met (when somewhere isn’t busy enough to ensure anonymity) we don’t show a change for the day. As a result, you may encounter empty fields for certain places and dates.
 
-1. Numbered
-2. List
+We include categories that are useful to social distancing efforts as well as access to essential services.
 
-**Bold** and _Italic_ and `Code` text
+We calculate these insights based on data from users who have opted-in to Location History for their Google Account, so the data represents a sample of our users. As with all samples, this may or may not represent the exact behavior of a wider population.
 
-[Link](url) and ![Image](src)
-```
+##More:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+https://www.google.com/covid19/mobility/data_documentation.html?hl=en
 
-### Jekyll Themes
+![grocery.gif](animations/grocery.gif)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marcin-zajac/covid-report/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![grocery.gif](animations/parks_perc.gif)
 
-### Support or Contact
+![grocery.gif](animations/residentia.gif)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![grocery.gif](animations/retail_and.gif)
+
+![grocery.gif](animations/transit_st.gif)
+
+![grocery.gif](animations/workplaces.gif)
+
+
+
+### Source
+
+Google LLC "Google COVID-19 Community Mobility Reports".
+https://www.google.com/covid19/mobility/ Accessed: 2020-05-12
