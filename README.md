@@ -20,7 +20,7 @@ We calculate these insights based on data from users who have opted-in to Locati
 
 https://www.google.com/covid19/mobility/data_documentation.html?hl=en
 
-![grocery.gif](animations/grocery.gif)
+![grocery.gif](animations/grocery.gif) ![grocery.gif](animations/grocery.gif)
 
 ![grocery.gif](animations/parks_perc.gif)
 
